@@ -1,0 +1,10 @@
+
+Answer 2.
+
+1.
+unit test case is as important as test case.
+in that part you have to test unit by unit and if its not working then a person can understand that a issue in that part only so that other part cant affect .
+
+
+3.
+

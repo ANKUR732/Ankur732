@@ -1,0 +1,27 @@
+Answer 1.
+
+2.
+
+1. you have to check the user name in only alphanumeric accept.
+
+2. if user only enter id so give them * at password it means user have to enter also password
+
+3.if user apply both wrong so a msg at scrren fill the data true.
+
+4.if user know only user name so through forget password you can send a link to mail and then he/she can proceed next to change password and then login in their id.
+
+5.if user without filling both apply login so give a msg on screen that fill the data in both the boxes and its a valid one not the wrong one.
+
+
+3.
+if i am the owner of the amazon so i have to check that server and website both are working or not?
+if it is any issue yopu have to solve at any cost and also you have some backup of server at nay cost for future issues.
+
+
+4
+
+
+
+
+
+5.you have to check first their login id and password.if it is ok so you have to verify that order via otp option to their cell no for confirm order.if they will come out from that so you have to provide mail security for confirm your order. 
